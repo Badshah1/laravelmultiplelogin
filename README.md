@@ -7,8 +7,8 @@ How to run this project?
 1. clone this project <git clone https://github.com/Badshah1/laravelmultiplelogin.git>
 
 2. execute the following commands:
-	> composer install
-	> copy .env.example .env
+	>> composer install
+	>> copy .env.example .env
 3. Create a database and update  .env file
 4. execute command > php artisan config:cache
 5. execute command > php artisan migrate
